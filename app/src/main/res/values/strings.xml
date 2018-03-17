@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NanoDegreeAppNo1</string>
+    <string name="title"><b>Domestic electricity works</b></string>
+    <string name="care">Let us take care of your installation</string>
+    <string name="content_description">main_picture</string>
+<string name="name">Peter - your personal electrician</string>
+    <string name="hours">Mon-Fri 8:00-21:00</string>
+    <string name="phone">+370600 000</string>
+    <string name="adress">Markuciu str. 1, Klaipeda</string>
+</resources>
